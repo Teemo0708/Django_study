@@ -5,7 +5,7 @@ from django.views.decorators.csrf import csrf_exempt
 nextId = 4
 topics = [
     {'id':1, 'title':'routing', 'body':'Routing is...'},
-    {'id':2, 'title':'view', 'body':'View is ..'},
+    {'id':2, 'title':'view', 'body':'View is...'},
     {'id':3, 'title':'Model', 'body':'Model is ..'},
 ]
 
